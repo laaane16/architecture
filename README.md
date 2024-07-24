@@ -1,1 +1,1 @@
-# dashboard
+# architecture
